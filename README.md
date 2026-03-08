@@ -3,6 +3,8 @@
 This repository contains a generic tool for producing driving-time
 isochrones from a set of input point locations and a boundary polygon.
 
+![](generic_iso_map.png)
+
 ## Overview
 
 The script `isochrone_analysis.py` can be used with any GeoJSON point
